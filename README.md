@@ -3,6 +3,6 @@
 这是“视频下载”Android App 的公开下载页仓库，仅包含静态网页资源；Android App 源码不在此仓库发布。
 
 - 下载页：<https://starfire-lzd.github.io/video-downloader-android/>
-- APK：<https://github.com/starfire-lzd/video-downloader-android/releases/download/v1.1/video-downloader-v1.1.apk>
+- APK：<https://github.com/starfire-lzd/video-downloader-android/releases/download/v1.2/video-downloader-v1.2-release.apk>
 
 请仅下载你有权保存的公开内容。
